@@ -4,4 +4,4 @@
 
 *git commit -a -m " message"*
 
-Добавили текст через браузер
+Добавили текст через браузер. Add english text in browzer
